@@ -1,0 +1,45 @@
+Report created: 
+	09/07/2026	04:45:23 ص
+
+Project name: Laptop-Scene.aep
+
+Source files collected to: 
+	C:\Users\maikh\Desktop\DEPI-Project\Father-Scene\Laptop-Scene-ae
+
+Source files collected: All
+
+Collected comps:  
+	Work-Room Background &Boy character
+	Clock
+	Alarm
+	Laptop-Frames
+	Work-Room Background &Boy character 2
+	Containers
+	Work-Room Background &Boy character 3
+	
+Number of collected files:  4
+
+Size of collected files:  12.2 MB
+
+Collected source files: 
+	C:\Users\maikh\Desktop\DEPI-Project\dragon-studio-clock-ticking-sfx-467486.mp3
+	C:\Users\maikh\Desktop\DEPI-Project\Keyboard.mp3
+	C:\Users\maikh\Desktop\DEPI-Project\WhatsApp Video 2026-05-06 at 3.46.09 PM.mp4
+	C:\Users\maikh\Desktop\DEPI-Project\Work-Room Background &Boy character.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Camera-Shake Deblur
+	
+Effect:  Puppet
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Bell MT”, Font style: “Regular”
+
